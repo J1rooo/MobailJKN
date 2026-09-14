@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobailJKN</string>
+
+    <string name="desc_status_aktif">Status aktif</string>
+    <string name="desc_antrean_online">Antrean Online</string>
+    <string name="desc_info_program_jkn">Info Program JKN</string>
+    <string name="desc_telehealth">Telehealth</string>
+    <string name="desc_info_riwayat">Info Riwayat Pelayanan</string>
+    <string name="desc_bugar">Bugar</string>
+    <string name="desc_new_rehab">NEW Rehab Cicilan</string>
+    <string name="desc_penambahan_peserta">Penambahan Peserta</string>
+    <string name="desc_info_peserta">Info Peserta</string>
+    <string name="desc_sos">SOS</string>
+    <string name="desc_info_lokasi_faskes">Info Lokasi Faskes</string>
+    <string name="desc_perubahan_data_peserta">Perubahan Data Peserta</string>
+    <string name="desc_pengaduan_layanan_jkn">Pengaduan Layanan JKN</string>
+    <string name="desc_menu_lainnya">Menu Lainnya</string>
+</resources>
